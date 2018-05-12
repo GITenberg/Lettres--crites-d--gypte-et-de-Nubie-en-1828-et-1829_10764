@@ -1,6 +1,9 @@
 _repo: Lettres--crites-d--gypte-et-de-Nubie-en-1828-et-1829_10764
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Lettres ecrites d'Egypte et de Nubie en 1828 et 1829
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Champollion, Jean-François
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '3669'
     url: http://www.gutenberg.org/2009/agents/3669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10764#Lettres--crites-d--gypte-et-de-Nubie-en-1828-et-1829
 gutenberg_bookshelf:
 - FR Sciences et Techniques
 - Egypt
